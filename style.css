@@ -35,8 +35,7 @@
   font-weight: bold;
   border-color: black;
   border-radius: 9px;
-  padding: 3vh 3vw;
-  margin: 1vh 1vw;
+  padding: 14px;
   cursor: pointer;
 }
 .delete-b {
