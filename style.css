@@ -10,8 +10,6 @@
 }
 .grid {
   display: grid;
-  height: 2vh;
-  width: 2vw;
   margin-left: 2vw;
   grid-template-columns: auto auto auto auto;
 }
@@ -37,6 +35,8 @@
   font-weight: bold;
   border-color: black;
   border-radius: 9px;
+  padding: 3vh 3vw;
+  margin: 1vh 1vw;
   cursor: pointer;
 }
 .delete-b {
